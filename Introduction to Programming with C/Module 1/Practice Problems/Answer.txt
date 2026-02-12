@@ -1,0 +1,15 @@
+1. We need long long int data type when our input variable is more than 10 to the power 9 which can't be stored in 4byte space.
+2.Rules of Naming a Variable:
+  a) only can be started with letter or underscore.
+  b) letter, underscore & numbers only can be used.
+  c) C programming keywords can not be used.
+3. Code is Written bellow:
+
+#include<stdio.h>
+int main()
+{
+    int a,b;
+    scanf("%d %d",&a,&b);
+    printf("%d %d",b,a);
+    return 0;
+}

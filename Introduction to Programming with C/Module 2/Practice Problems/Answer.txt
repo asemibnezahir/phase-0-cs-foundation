@@ -1,0 +1,47 @@
+1.Code is Written bellow:
+
+#include <stdio.h>
+int main()
+{
+    int number;
+    scanf("%d",&number);
+    if(number%2==0){
+        printf("The Number is Even.\n");
+    }
+    else{
+        printf("The Number is Odd.\n");
+    }
+    return 0;
+}
+
+
+
+
+2.Code is Written bellow:
+
+#include<stdio.h>
+int main()
+{
+    int number;
+    scanf("%d",&number);
+    if(number<0)
+    {
+        printf("This Number is Negative");
+    }
+    else if(number>0)
+    {
+        printf("This Number is Positive");
+    }
+    else
+    {
+        printf("This Number is Zero");
+    }
+    return 0;
+}
+
+
+
+
+3. If else ladder is chain of logic in c programming which starts with 
+"if" and ends with "else" and we can add "else if" if we want to add more 
+logic in a ladder.

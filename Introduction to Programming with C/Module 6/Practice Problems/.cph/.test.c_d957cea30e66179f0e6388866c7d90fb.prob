@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"d:\\Phitron\\Module 6\\Practice Problems\\test.c","tests":[{"id":1744725642429,"input":"5 6","output":"0"},{"id":1744729966885,"input":"2\n5 6\n4 10","output":"0\n21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Module 6\\Practice Problems\\test.c","group":"local","local":true}

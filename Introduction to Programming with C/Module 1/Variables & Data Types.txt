@@ -1,0 +1,9 @@
+1. Integer-Data Type: int, Variable: পূর্নসংখ্যা।
+2. Float-Data Type: float, Variable: ভগ্নাংশ সংখ্যা।
+3. Character-Data Type: char, Variable: Letters & Symbols in single coaptation(').
+4. Yes or No-Data Type: bool, Variable: True or False.
+
+int & float consume 4byte or 32 bit memory space
+char consume 1 byte or 8 bit memory space
+long long int consume 8 byte memory space
+double consume 8 byte memory space in the place of float

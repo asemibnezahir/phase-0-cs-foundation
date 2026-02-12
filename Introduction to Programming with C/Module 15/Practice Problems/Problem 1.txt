@@ -1,0 +1,2 @@
+Pass by Value means passing the value of main function's variable to making function variable
+& pass by reference means passing the address of main function's variable
